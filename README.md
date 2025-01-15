@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning, Machine Learning, Artificial Intelligence, Python, Data Analysis.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
-- 📫 How to reach me :- 📧 dcool297@gmail.com
+- 📫 How to reach me :- 📧 divyam.pandey009@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I can debug code faster than I can decide what to eat for dinner! 🍕💻
 
